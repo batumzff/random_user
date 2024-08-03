@@ -1,4 +1,5 @@
 ## About the Project
+![checkout](https://github.com/batumzff/random_user/blob/main/randomUser.gif)
 
 This React project is a web application that displays random user data by utilizing data retrieved from an API.
 
